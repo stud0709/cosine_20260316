@@ -18,8 +18,6 @@ And here are some screenshots of the result:
 
 ![Precheck](2026-03-16_23h22_15.png)
 
-A solid base to start iterating, given the sloppy task description I made on the go.
-
 The report code: [ztable_impex.prog.abap](ztable_impex.prog.abap)
 
 # DISCLAIMER
